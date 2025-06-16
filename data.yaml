@@ -1,0 +1,5 @@
+train: train/images
+val: train/images
+
+nc: 14
+names: ['Great Horned Owl', 'barredowl', 'burrowingowl', 'eurasianeagle', 'great grey owl', 'kingfisher', 'long eared owl', 'mallard', 'owl', 'peacock', 'snowy owl', 'strigidae', 'tawny owl', 'uralowl']

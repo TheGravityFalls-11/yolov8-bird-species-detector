@@ -1,0 +1,28 @@
+# Virtual environment
+venv/
+__pycache__/
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Ultralytics YOLO result folders
+runs/
+
+# Python cache
+*.pyc
+*.pyo
+*.pyd
+
+# Model weights
+*.pt
+*.weights
+
+# Logs
+*.log
+
+# Temporary files
+*.bak
