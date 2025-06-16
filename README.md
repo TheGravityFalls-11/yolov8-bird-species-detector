@@ -34,7 +34,7 @@ Here is an example of how the YOLOv8 detection looks:
 
 
 
-![Prediction Screenshot](f1b0df61-5aa0-400b-9835-3a0df7b6062c.png)
+![Image](https://github.com/user-attachments/assets/7157a03b-5c99-483e-aa20-eed8df840c95)
 
 ---
 
